@@ -1,0 +1,36 @@
+---
+abstract: 'Check file names'
+author:
+  - 'Helmut Wollmersdorfer <helmut.wollmersdorfer@gmx.at>'
+build_requires:
+  Test::More: 0.88
+configure_requires:
+  Module::Build::Tiny: 0.035
+dynamic_config: 0
+generated_by: 'Dist::Milla version v1.0.4, Dist::Zilla version 5.006, CPAN::Meta::Converter version 2.132830'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: File-Name-Check
+no_index:
+  directory:
+    - t
+    - xt
+    - inc
+    - share
+    - eg
+    - examples
+requires:
+  Encode: 0
+  Encode::Locale: 0
+  File::Spec: 0
+  perl: 5.008005
+resources:
+  bugtracker: https://github.com/wollmers/File-Name-Check/issues
+  homepage: https://github.com/wollmers/File-Name-Check
+  repository: https://github.com/wollmers/File-Name-Check.git
+version: 0.02
+x_contributors:
+  - 'Helmut Wollmersdorfer <helmut@wollmersdorfer.at>'
+  - 'wollmers <helmut.wollmersdorfer@fixpunkt.de>'
