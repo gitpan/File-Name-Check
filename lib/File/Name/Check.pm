@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 use 5.008_005;
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 use File::Spec;
 use Encode::Locale;
@@ -82,6 +82,12 @@ __END__
 =head1 NAME
 
 File::Name::Check - Check file names
+
+=for html
+
+<a href="https://travis-ci.org/wollmers/File-Name-Check"><img src="https://travis-ci.org/wollmers/File-Name-Check.png" alt="File-Name-Check"></a>
+<a href='https://coveralls.io/r/wollmers/File-Name-Check?branch=master'><img src='https://coveralls.io/repos/wollmers/File-Name-Check/badge.png?branch=master' alt='Coverage Status' /></a>
+
 
 =head1 SYNOPSIS
 
