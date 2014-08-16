@@ -30,7 +30,7 @@ resources:
   bugtracker: https://github.com/wollmers/File-Name-Check/issues
   homepage: https://github.com/wollmers/File-Name-Check
   repository: https://github.com/wollmers/File-Name-Check.git
-version: '0.05'
+version: '0.06'
 x_contributors:
   - 'Helmut Wollmersdorfer <helmut.wollmersdorfer@fixpunkt.de>'
   - 'Helmut Wollmersdorfer <helmut@wollmersdorfer.at>'
