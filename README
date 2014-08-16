@@ -1,14 +1,6 @@
 NAME
     File::Name::Check - Check file names
 
-    <a href="https://travis-ci.org/wollmers/File-Name-Check"><img
-    src="https://travis-ci.org/wollmers/File-Name-Check.png"
-    alt="File-Name-Check"></a> <a
-    href='https://coveralls.io/r/wollmers/File-Name-Check?branch=master'><im
-    g
-    src='https://coveralls.io/repos/wollmers/File-Name-Check/badge.png?branc
-    h=master' alt='Coverage Status' /></a>
-
 SYNOPSIS
       use File::Name::Check;
 

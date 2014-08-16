@@ -1,5 +1,8 @@
 Revision history for File-Name-Check
 		
+0.08  2014-08-16 23:35:14 CEST
+        - badges in pod
+
 0.07  2014-08-16 23:13:17 CEST
         - more coverage, cleanup
 
