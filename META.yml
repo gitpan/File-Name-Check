@@ -3,6 +3,7 @@ abstract: 'Check file names'
 author:
   - 'Helmut Wollmersdorfer <helmut.wollmersdorfer@gmx.at>'
 build_requires:
+  File::Spec: '0'
   Test::More: '0.88'
 configure_requires:
   Module::Build::Tiny: '0.036'
@@ -30,7 +31,7 @@ resources:
   bugtracker: https://github.com/wollmers/File-Name-Check/issues
   homepage: https://github.com/wollmers/File-Name-Check
   repository: https://github.com/wollmers/File-Name-Check.git
-version: '0.06'
+version: '0.07'
 x_contributors:
   - 'Helmut Wollmersdorfer <helmut.wollmersdorfer@fixpunkt.de>'
   - 'Helmut Wollmersdorfer <helmut@wollmersdorfer.at>'
